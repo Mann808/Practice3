@@ -1,0 +1,15 @@
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\bin\Debug\net6.0\Practich3.exe
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\bin\Debug\net6.0\Practich3.deps.json
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\bin\Debug\net6.0\Practich3.runtimeconfig.json
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\bin\Debug\net6.0\Practich3.dll
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\bin\Debug\net6.0\Practich3.pdb
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.csproj.AssemblyReference.cache
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.AssemblyInfoInputs.cache
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.AssemblyInfo.cs
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.csproj.CoreCompileInputs.cache
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.dll
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\refint\Practich3.dll
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.pdb
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\Practich3.genruntimeconfig.cache
+C:\Users\Mann\source\repos\mann\Practich3\Practich3\obj\Debug\net6.0\ref\Practich3.dll
